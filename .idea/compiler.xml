@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="consul" />
+        <module name="feignconsumer" />
         <module name="provider" />
         <module name="provider1" />
         <module name="provider2" />
@@ -16,6 +17,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="consul" target="1.8" />
+      <module name="feignconsumer" target="1.8" />
       <module name="provider" target="1.8" />
       <module name="provider1" target="1.8" />
       <module name="provider2" target="1.8" />

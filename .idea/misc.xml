@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/provider1/pom.xml" />
         <option value="$PROJECT_DIR$/provider2/pom.xml" />
         <option value="$PROJECT_DIR$/ribbonconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/feignconsumer/pom.xml" />
       </list>
     </option>
   </component>
